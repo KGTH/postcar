@@ -2,7 +2,7 @@ body {
 	background: black;
 }
 * {
-	border: 1px dashed white;
+	border: 1px black;
 	min-height: 10px;
 }
 
